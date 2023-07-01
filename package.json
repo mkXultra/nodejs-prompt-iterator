@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-prompt-iterator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkXultra/nodejs-prompt-iterator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkXultra/nodejs-prompt-iterator/issues"
+  },
+  "homepage": "https://github.com/mkXultra/nodejs-prompt-iterator#readme",
+  "dependencies": {
+    "openai": "^3.3.0"
+  }
+}
